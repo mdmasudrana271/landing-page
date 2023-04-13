@@ -4,7 +4,7 @@ const Service = () => {
   return (
     <section className="my-36">
         {/* brand logo  */}
-      <div className="hidden md:flex justify-center items-center gap-32 w-9/12 mx-auto">
+      <div className="hidden md:flex justify-center items-center gap-14 w-9/12 mx-auto">
         <div>
           <svg
             width="257"
