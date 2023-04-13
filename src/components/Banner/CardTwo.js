@@ -2,7 +2,7 @@ import React from "react";
 
 const CardTwo = () => {
   return (
-    <section className="flex flex-col justify-center items-start gap-5 bg-gradient-to-r from-slate-700 to-slate-900 md:w-60 w-full rounded-lg text-start p-6 md:mt-[-500px] md:ml-[240px] md:absolute mt-5">
+    <section className="flex flex-col justify-center items-start gap-5 bg-gradient-to-r from-slate-700 to-slate-900 md:w-60 w-full rounded-lg text-start p-6 md:mt-[-440px] md:ml-[240px] md:absolute mt-5">
       <div className="flex justify-center items-center gap-3">
         <span className="bg-white rounded-full p-3">
           <svg
